@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://anujmehla.wordpress.com/](https://anujmehla.wordpress.com/)
 
-- 📫 How to reach me **anujmehla7@gmail.com**
+- 📫 How to reach me **hireanuj@gmail.com**
 
 
 
