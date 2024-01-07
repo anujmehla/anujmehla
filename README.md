@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuj Mehla</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [MyCareerBuild.com](https://mycareerbuild.com/)
-
-- 📝 I regularly write articles on [https://anujmehla.wordpress.com/](https://anujmehla.wordpress.com/)
 
 - 📫 How to reach me **hireanuj+github@gmail.com**
 
